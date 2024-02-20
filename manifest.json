@@ -5,7 +5,7 @@
   "dependency": [
     "jimu-arcgis"
   ],
-  "exbVersion": "1.13.0",
+  "exbVersion": "1.11.0",
   "author": "Synesis Partners",
   "description": "Allows the user to draw a polygon around addresses and specify a point. The widget then determine the best route from each address to the specified point.",
   "copyright": "",
